@@ -1,0 +1,8 @@
+.DS_Store
+/.build
+/Packages
+/*.xcodeproj
+/*.pins
+/*.dylib
+/*.so
+/*.dylib.dSYM

@@ -1,0 +1,5 @@
+import mylines
+
+let content = "Hello\nWorld\n\n🇨🇳\n🇨🇦\n\n"
+
+print(content.asLines)
