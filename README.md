@@ -2,6 +2,10 @@
 
 This project demonstrates how to load & run a Swift module dynamically.
 
+## Release Notes
+
+Make sure that Swift 3.1 tool chain has already installed on your macOS / Ubuntu Linux
+
 ## Quick Start
 
 Clone this project and run the `run.sh` to see the result, as commands below:
